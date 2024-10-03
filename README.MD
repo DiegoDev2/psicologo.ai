@@ -1,4 +1,4 @@
-# Psicólogo Virtual
+# Psicólogo AI
 
 Un asistente emocional basado en IA que responde a tus preguntas a través de un chat en la terminal.
 
