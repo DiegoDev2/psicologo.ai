@@ -16,7 +16,7 @@ Un asistente emocional basado en IA que responde a tus preguntas a través de un
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/psicologo.git
+   git clone https://github.com/CodeDiego15/psicologo-ai.git
    cd psicologo
    go build psicologo.go
    sudo mv psicologo /usr/local/bin/
